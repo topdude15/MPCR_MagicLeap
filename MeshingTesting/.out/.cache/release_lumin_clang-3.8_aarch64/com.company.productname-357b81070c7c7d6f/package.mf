@@ -1,0 +1,254 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/trevorrose/MagicLeap/mlsdk/v0.16.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/trevorrose/Downloads/privatekey/trevor'smacbookair.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "b8b93f40345d6b00fcbc784a1e4bf99a11562d98",
+   "xfrm_path": "/Users/trevorrose/MeshingTesting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-357b81070c7c7d6f/libc++_shared.so-8b7ae730bc71798b",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "8227c514febf7dc60ce4785d778d1b0965d78112",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2660152,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "0d29c9d61f08078b74bacf6f846000dbc9118c77",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 33070344,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/trevorrose/Downloads/privatekey/trevor'smacbookair.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "fc5488d9898cce09125c45632617770a1197c96c",
+   "xfrm_path": "/Users/trevorrose/MeshingTesting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-357b81070c7c7d6f/libil2cpp.so-01106099898bc42d",
+   "xfrm_size": 33071102
+  },
+  {
+   "compression": 8,
+   "hash": "99be27c27e2af134a459a05f2240800e1a0eddd0",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 247376,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/trevorrose/Downloads/privatekey/trevor'smacbookair.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "01e5f3a149480f52ca5f09f2ef748a9376a4ce48",
+   "xfrm_path": "/Users/trevorrose/MeshingTesting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-357b81070c7c7d6f/AudioPluginMSASpatializer.so-68081ef9bbe8826e",
+   "xfrm_size": 248134
+  },
+  {
+   "compression": 8,
+   "hash": "e1d6a3392ecde066ea0cc34538e9839d8d87671d",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "c0a15a2993e1f9df9db7db864cb0c8f8fa94ca45",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/trevorrose/Downloads/privatekey/trevor'smacbookair.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ec2e7d1ae6e8bfa4bfacd4ff467362a66cd96cd2",
+   "xfrm_path": "/Users/trevorrose/MeshingTesting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-357b81070c7c7d6f/UnityMagicLeap.so-68081ef9bbe8826e",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "dd16fc5a22220fad38161f73afa74926cb2eda96",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/trevorrose/Downloads/privatekey/trevor'smacbookair.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "331cb3f672a4c0e31683f4411a456c770a232ea0",
+   "xfrm_path": "/Users/trevorrose/MeshingTesting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-357b81070c7c7d6f/libml_camera_plugin.so-68081ef9bbe8826e",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "affee7f7610bd12f2b914f61c1b34ca32a72e424",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 30528,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/trevorrose/Downloads/privatekey/trevor'smacbookair.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "c092c5ff080b506ec62aeea2b4df2f46af9922bd",
+   "xfrm_path": "/Users/trevorrose/MeshingTesting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-357b81070c7c7d6f/libml_mediaplayer_plugin.so-68081ef9bbe8826e",
+   "xfrm_size": 31286
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "d64d56786d7a4729db4528511c0a1fafd44acc7b",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 293332,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
+   "pkgpath": "Data/boot.config",
+   "size": 76,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "d922aec577a243f5ca567890287bb5265dfc5542",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 32592,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "81d6bc85fd565652ca3ba8463b01629588c734a3",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 33844,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "972b785296bdc37d0590438fb0f4df7c3acb701e",
+   "pkgpath": "Data/level0",
+   "size": 6096,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "03516a8e4b52fcedd21af2fd57b3b6a31597dc9c",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 94300,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "2941838c7996ccf3b3ce8ed1a7a864d172bd4b7c",
+   "pkgpath": "bin/Player.elf",
+   "size": 22314872,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/trevorrose/Downloads/privatekey/trevor'smacbookair.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "1be534352d37a239fa3c50277f35b56330b726cd",
+   "xfrm_path": "/Users/trevorrose/MeshingTesting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-357b81070c7c7d6f/Player.elf-df8664b21c27808e",
+   "xfrm_size": 22315630
+  },
+  {
+   "compression": 8,
+   "hash": "bc44d6ad100793f133d767d5a1199f311f77bdd1",
+   "pkgpath": "manifest.xml",
+   "size": 1658,
+   "src": "/Users/trevorrose/MeshingTesting/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "e598875791efb18b6739e93d099b51fbd81ac6b1",
+     "developer_id": "14c938f1-4b2d-43f6-bc52-aea702880c34"
+    }
+   },
+   "xfrm_hash": "51ca50d7b5cad639bb98eb326231d2889d02d8b7",
+   "xfrm_path": "/Users/trevorrose/MeshingTesting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-357b81070c7c7d6f/manifest.xml-df8664b21c27808e",
+   "xfrm_size": 1671
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/trevorrose/Downloads/privatekey/trevor'smacbookair.cert"
+  },
+  "taildata": {
+   "devcert": "/Users/trevorrose/Downloads/privatekey/trevor'smacbookair.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
